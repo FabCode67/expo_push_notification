@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424489576668",
+    "project_id": "expopush-daa45",
+    "storage_bucket": "expopush-daa45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424489576668:android:78dd77fd45367976f76c19",
+        "android_client_info": {
+          "package_name": "com.muanafab.ExpoNotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP5NxdGPo0KoTHUhWjF4EdtEOopNGmV3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
